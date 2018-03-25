@@ -1,0 +1,158 @@
+{
+  "name_page" : "index",
+  "lang" : "fr",
+  "intro" : {
+    "image" : "images/juju.jpg",
+    "name" : "Julia FATH",
+    "info" : {
+      "statut" : "Etudiante en 5ème année de Pharmacie - Master 1 Pharmacologie et Toxicologie",
+      "tel" : "06.73.43.51.09",
+      "date" : "15/11/1994 (23 ans)",
+      "permis" : "Permis B",
+      "mail" : "E-mail : julia.fath@hotmail.fr",
+      "imageLinkedIn" : "images/linkedin.png",
+      "imageMail" : "images/email.png",
+      "imagePDF" : "images/pdf.png"
+    }
+  },
+  "objectifs" : {
+    "title" :"Objectifs",
+    "image" : "/images/manif.jpg",
+    "listText" : [{
+          "text" : "Recherche de stage de fin d'études (6ème année de Pharmacie, double cursus Master 2 Pharmacologie et Toxicologie) dans le domaine de la Recherche d'une durée de 6 mois à partir de janvier 2019"
+        },
+        {
+          "text" : "Recherche d'un Doctorat de 3 ans (PhD) à partir de septembre 2019"
+        }]
+  },
+  "formation" : {
+    "title" :"Formation",
+    "elem" : [{
+      "title": "2012",
+      "text": "BAC S option SVT spé physique, mention Bien - Lycée Jeanne d'Arc - Mulhouse",
+      "imageSrc": "images/bacS.jpg",
+      "imageText": ""
+      },
+      {
+        "title": "2012 - 2014",
+        "text": "Première année commune aux études de santé, spécialité Pharmacie - Université de Strasbourg - Strasbourg",
+        "imageSrc": "images/caducee.png",
+        "imageText": ""
+      },
+      {
+        "title": "2014 - 2017",
+        "text": "2ème année (DFGSP 2), 3ème  année (DFGSP 3) et 4ème année de Pharmacie (DFASP 1) filière Industrie-Recherche, options: Initiation aux Essais Cliniques, Prévention des Risques en Laboratoire et Biologie chimique – Faculté de Pharmacie – Université de Strasbourg",
+        "imageSrc": "images/caducee.png",
+        "imageText": ""
+      },
+      {
+        "title": "2017 - 2018",
+        "text": "5ème année de Pharmacie (DFASP 2) filière Industrie-Recherche, double cursus Master 1 Pharmacologie et Toxicologie : Bases de culture cellulaire, Recherche et plateformes, Modèles génétiques animaux, Technologies de recherche de variations génétiques – Faculté de Pharmacie – Université de Strasbourg",
+        "imageSrc": "images/caducee.png",
+        "imageText": ""
+      }]
+  },
+  "exp" : {
+    "title" :"Expériences",
+    "elem" : [{
+      "title": "Stage d'initiation en officine de 2ème année de Pharmacie",
+      "text": "Juillet 2015 - Août 2015",
+      "imageSrc": "images/mortier.png",
+      "imageText": "",
+      "listText" : []
+      },
+      {
+        "title": "Stages d'application en officine de 3ème et 4ème années de Pharmacie",
+        "text": "Juin 2016 et Juin 2017",
+        "imageSrc": "images/mortier.png",
+        "imageText": "",
+        "listText" : []
+      },
+      {
+        "title": "Externe en Pharmacie aux Hôpitaux Universitaires de Strasbourg",
+        "text": "",
+        "imageSrc": "images/hopital.jpg",
+        "imageText": "",
+        "listText" : [{
+            "text" : "Service d'ORL : Janvier 2018 | Avril 2018 "
+          },
+          {
+            "text" : "Centre d'investigation clinique | Mai 2018 - Août 2018"
+          }]
+      },
+      {
+        "title": "Stage d'initiation à la Vidéomicroscopie et à la Microscopie confocale",
+        "text": "Mars 2018",
+        "imageSrc": "images/micro.jpg",
+        "imageText": "",
+        "listText" : []
+      },
+      {
+        "title": "Stage de recherche",
+        "text": "Laboratoire de Conception et Application de Molécules Bioactives – Equipe Chimie et Neurobiologie Moléculaire, UMR 7199 – CNRS, Faculté de Pharmacie, Université de Strasbourg | Août 2017 – Décembre 2017, Etude du rôle des récepteurs-canaux purinergiques (P2X) au sein du système cardiovasculaire",
+        "imageSrc": "images/cnrs.jpg",
+        "imageText": "",
+        "listText" : [{
+            "text" : "Etude bibliographique approfondie  "
+          },
+          {
+            "text" : "Elaboration de protocoles expérimentaux"
+          },
+          {
+            "text" : "Etudes de relaxation sur organe isolé"
+          },
+          {
+            "text" : "Bases de culture cellulaire"
+          },
+          {
+            "text" : "Bases d’électrophysiologie"
+          }]
+      },
+      {
+        "title": "Projet personnel professionnalisant : MED’Advice, Junior-Entreprise® à la Faculté de Pharmacie de Strasbourg | 2015 –2017",
+        "text": "MED’Advice est une association type Junior-Entreprise® fonctionnant sur le modèle d'un cabinet de conseil dans le domaine de la santé",
+        "imageSrc": "images/ma.jpg",
+        "imageText": "",
+        "listText" : [{
+            "text" : "Assistante du Trésorier pour le mandat 2015/2016"
+          },
+          {
+            "text" : "Trésorière de la Junior-Entreprise® MED’Advice pour le mandat 2016/2017"
+          },
+          {
+            "text" : "Chef de projet sur une étude de rédaction d’articles scientifiques"
+          }]
+      },
+      {
+        "title": "Bénévole au Hacking Health Camp de Strasbourg 2017",
+        "text": "Hackathon dans le domaine de l’innovation en santé",
+        "imageSrc": "images/hacking.png",
+        "imageText": "",
+        "listText" : []
+      }]
+  },
+  "competences" : {
+    "title" :"Compétences",
+    "langues" : {
+      "title" : "Langues",
+      "list" : [{
+          "text" : "Anglais : lu, parlé, écrit"
+        },
+        {
+          "text" : "Allemand : lu, écrit"
+        }]
+    },
+    "bureautique" : {
+      "title" : "Bureautique",
+      "list" : [{
+          "text" : "Word, Excel, Powerpoint, GraphPad Prism"
+        },
+        {
+          "text" : "Diplôme du C2i (Certificat Informatique et Internet)"
+        }]
+    }
+  },
+  "contact" : {
+    "title" :"Contact"
+  }
+}

@@ -1,0 +1,66 @@
+.image-1-parallax, .image-2-parallax, .image-3-parallax, .image-4-parallax {
+  position: relative;
+  opacity: 1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.image-1-parallax {
+  background-image: url("../images/medoc.jpg");
+  min-height: 800px;
+  max-height: 800px;
+}
+
+
+.image-2-parallax {
+  background-image: url("../images/info.jpg");
+  min-height: 1100px;
+  max-height: 1100px;
+}
+
+.image-3-parallax {
+  background-image: url("../images/eprouvette.jpg");
+  min-height: 400px;
+  max-height: 400px;
+}
+
+.image-4-parallax {
+  background-image: url("../images/info.jpg");
+  min-height: 800px;
+  max-height: 800px;
+}
+
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;image-CV
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .image-1-parallax, .image-2-parallax, .image-3-parallax, .image-4-parallax  {
+        background-attachment: scroll;
+    }
+}

@@ -1,0 +1,20 @@
+.roundLabel {
+  display: inline-block;
+  padding: 0 25px;
+  height: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: rgba(215, 209, 246, 0.5);
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.roundLabel img {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: 2px solid #232b50;
+}

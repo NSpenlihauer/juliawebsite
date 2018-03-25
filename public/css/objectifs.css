@@ -1,0 +1,44 @@
+.imageIntro
+{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 10px solid #4f4f4f;
+}
+
+.intro
+{
+  padding-top :50px;
+  padding-bottom: :20px;
+}
+
+.title
+{
+    margin-top : 20px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    color : black;
+    font-family: 'Sanchez', sans-serif;
+}
+
+.objectif-text
+{
+    margin-top : 5px;
+    font-size: 20px;
+    color : black;
+    font-family: 'Sanchez', sans-serif;
+}
+
+.imageObjectifs
+{
+  height: 300px;
+  width: 300px;
+  border: 10px solid #232b50;
+}
+
+.bg-objectifs
+{
+  background-color: #e5eff3;
+  min-height: 400px;
+  max-height: 400px;
+}
