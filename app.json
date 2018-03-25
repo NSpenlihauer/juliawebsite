@@ -1,0 +1,8 @@
+{
+  "name" : "Node.js Getting Started",
+  "description" : "WebsiteJulia",
+  "repository" : "https://github.com/NSpenlihauer/juliawebsite.git",
+  "logo" : "http://nodejs-js-sample.herokuapp.com/node.svg",
+  "keywords" : ["nodejs", "express", "fs", "socket.io"],
+  "image" : "heroku/nodejs"
+}

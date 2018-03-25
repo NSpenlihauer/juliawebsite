@@ -1,0 +1,28 @@
+{
+  "name": "juliawebsite",
+  "version": "1.0.0",
+  "description": "Not Yey",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "^0.0.1-security",
+    "socket.io": "^2.0.4"
+  },
+  "engine" : {
+    "nodejs" : "4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSpenlihauer/juliawebsite.git"
+  },
+  "author": "Nicolas Spenlihauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSpenlihauer/juliawebsite/issues"
+  },
+  "homepage": "https://github.com/NSpenlihauer/juliawebsite#readme"
+}
